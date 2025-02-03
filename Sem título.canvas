@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"4c6e706a922dc95e","x":-280,"y":-160,"width":250,"height":90,"type":"text","text":"familia"},
+		{"id":"2365ca59b0b74b95","x":60,"y":-270,"width":400,"height":400,"type":"file","file":"familia.md"},
+		{"id":"b8878b63156e7682","x":-400,"y":20,"width":400,"height":400,"type":"file","file":"ficha de mafioso.md"}
+	],
+	"edges":[]
+}
